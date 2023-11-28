@@ -1,4 +1,5 @@
 """Demonstrate class of fighters"""
+
 class Fighter:
     """
     Represents a fighter in the game.
